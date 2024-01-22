@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+
+    <website>
+        <name>toyo toys</name>
+        <price>20$</price>        
+    </website>
+
+    <website>
+        <name>toyo toys</name>
+        <price>20$</price>        
+    </website>
+
+    <website>
+        <name>toyo toys</name>
+        <price>20$</price>        
+    </website>
+
+    <website>
+        <name>toyo toys</name>
+        <price>20$</price>        
+    </website>
+
+    <person category= 'John "Gunshot" wick'>
+        <fname></fname>
+        <lname></lname>
+    </person>
+    
+</catalog>

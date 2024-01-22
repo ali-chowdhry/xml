@@ -1,0 +1,9 @@
+
+    <!ELEMENT note ANY>
+    <!ELEMENT to (faculty,center)>
+    <!ELEMENT faculty (#PCDATA)>
+    <!ELEMENT center (#PCDATA)>
+    <!ELEMENT form (#PCDATA)>
+    <!ELEMENT heading (#PCDATA)>
+    <!ELEMENT date (#PCDATA)>
+    

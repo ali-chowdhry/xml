@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ecommerce xmlns:b="fakeurl" xmlns:h="h">
+    <b:table>
+        <b:tr>
+            <b:th>book name</b:th>
+            <b:th>book price</b:th>
+            <b:th>book method</b:th>
+            <b:th>book published</b:th>
+        </b:tr>
+    </b:table>
+
+    <h:table>
+        <name>Ali Chowdhry</name>
+        <name>Ali Chowdhry</name>
+        <name>Ali Chowdhry</name>
+        <name>Ali Chowdhry</name>
+        <name>Ali Chowdhry</name>
+
+    </h:table>
+
+</ecommerce>

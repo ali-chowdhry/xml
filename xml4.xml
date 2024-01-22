@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="book.xsl" type="text/xsl"?>
+
+<bookstore>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+    
+<book>
+    <name>xml</name>
+    <price>20$</price>
+</book>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+<shirts>
+    <size>larg</size>
+    <price>10$</price>
+</shirts>
+
+
+
+</bookstore>
